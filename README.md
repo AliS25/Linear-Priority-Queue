@@ -1,5 +1,5 @@
 # Linear-Priority-Queue
-Implementation of a priority queue called LinearPriorityQueue using a doubly linked list as the underlying linear data structure to store the contents of your priority queue. 
+Implementation of a priority queue called LinearPriorityQueue using a doubly linked list as the underlying linear data structure to store the contents. 
 Also, there is a program, PriorityQueuePerformanceTester.java, that tests the empirical running times of my insert and removeMin methods over a wide range of
 priority queue sizes. 
 
